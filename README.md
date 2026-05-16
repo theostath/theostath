@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/thodoris-s-033752135/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:theostathakopoulos@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -94,6 +97,9 @@ AI/ML Engineer with **3+ years** of hands-on experience developing, deploying, a
 <p>
   <a href="https://www.linkedin.com/in/thodoris-s-033752135/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:theostathakopoulos@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/theostath">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
