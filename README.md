@@ -63,6 +63,7 @@ AI/ML Engineer with **3+ years** of hands-on experience developing, deploying, a
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langfuse-1A1A1A?style=flat&logo=langfuse&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
@@ -75,6 +76,7 @@ AI/ML Engineer with **3+ years** of hands-on experience developing, deploying, a
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
 </p>
 
 ---
