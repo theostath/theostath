@@ -20,7 +20,7 @@
 
 AI Engineer with **3+ years** of hands-on experience developing, deploying, and monitoring end-to-end machine learning systems across **LLM and agentic applications**, **computer vision**, **time-series forecasting**, and **energy analytics**.
 
-- Currently at **Metlen Energy & Metals**, building a **Google ADK + Gemini agent** that answers natural-language questions over energy data by writing its own SQL, behind guardrails and a verification step
+- Currently at **Metlen Energy & Metals**, building an **agentic solution** that answers natural-language questions over energy data by writing its own SQL, behind guardrails and a verification step
 - **Evaluation-first**: automated eval harnesses with LLM-as-judge and golden datasets, and **Langfuse** monitoring of production traces
 - Building production-oriented AI within **GDPR / EU AI Act** constraints, deployed on **Google Cloud Run** and **AWS SageMaker / Lambda**
 - Open source: [**Pythia**](https://github.com/theostath/greek-open-data), a natural-language assistant over Greece's open-data portal: hybrid retrieval (dense + BM25), grounded and cited answers
